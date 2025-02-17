@@ -1,2 +1,2 @@
-# java script
- Curso de Java Script do curso em vídeo
+# Java-Script
+ Java-Script
